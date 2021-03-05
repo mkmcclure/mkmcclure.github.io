@@ -1,3 +1,25 @@
 h1{
-	color:#3388AC;
+	
 }
+#unaffiliated{
+	float: left;
+	width: 200px;
+	height: 200px;
+	padding: 5px;
+	margin: 5px;
+}
+#bio{
+	font-size: 22px;
+	font-style: italic;
+
+}
+#wmuc{
+	width: 100px;
+	height: 100px;
+}
+.highlights{
+	width: 320px;
+	height: 240px;
+}
+
+
