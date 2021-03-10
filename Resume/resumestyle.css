@@ -1,16 +1,26 @@
 h1{
 	font-family: 'Seaweed Script', cursive;
 }
+h2{
+	font-size: 40px;
+	font-weight: 400;
+	text-decoration: underline;
+}
+h4{
+	font-size: 25px;
+	font-weight: 400;
+	text-decoration: underline;
+}
 #cojlogo{
 	float:right;
-	width: 375px;
+	width: 275px;
 	height: 100px;
 	padding: 10px;
 }
 #unaffiliated{
 	float: left;
-	width: 200px;
-	height: 200px;
+	width: 230px;
+	height: 230px;
 	padding: 5px;
 	margin: 5px;
 }
@@ -49,7 +59,6 @@ h1{
 	float:right;
 }
 #hintro{
-	font-weight: bolder;
 	text-align: center;
 }
 .bpics{
@@ -61,6 +70,27 @@ h1{
 }
 #catslogo{
 	margin-top: 12px;
+}
+#videopic{
+	height: 230px;
+	width: 240px;
+	float: left;
+	padding: 8px;
+	margin-top: 2px;
+}
+#stor{
+	text-align: center;
+}
+#story1{
+	padding: 15px;
+}
+#story2{
+	margin-left: 110px;\
+	padding: 15px;
+}
+#story3{
+	float: right;
+	padding: 15px;
 }
 
 
