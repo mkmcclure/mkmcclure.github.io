@@ -1,5 +1,11 @@
 h1{
-	
+	font-family: 'Seaweed Script', cursive;
+}
+#cojlogo{
+	float:right;
+	width: 375px;
+	height: 100px;
+	padding: 10px;
 }
 #unaffiliated{
 	float: left;
@@ -13,13 +19,51 @@ h1{
 	font-style: italic;
 
 }
-#wmuc{
+.pics{
 	width: 100px;
 	height: 100px;
+	float: left;
+	padding: 8px;
+	margin-right: 15px;
+	margin-bottom: 5px;
+	margin-top: 15px;
 }
 .highlights{
 	width: 320px;
 	height: 240px;
 }
+.sections{
+	border: 2px solid black;
+	margin-bottom: 2px;
+}
+#contact{
+	text-align: left;
+}
+.text{
+	font-family: 'Halant', serif;
+}
+#twoh{
+	margin-left: 230px;
+}
+#threeh{
+	float:right;
+}
+#hintro{
+	font-weight: bolder;
+	text-align: center;
+}
+.bpics{
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 5px;
+}
+#catslogo{
+	margin-top: 12px;
+}
+
+
+
 
 
